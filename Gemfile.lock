@@ -154,7 +154,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
   listen (~> 3.2)
-  pg
+  pg (= 1.2.3)
   puma (~> 4.1)
   rack-cors
   rails (~> 6.0.3)

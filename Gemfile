@@ -7,8 +7,8 @@ ruby '2.7.1'
 gem 'rails', '~> 6.0.3'
 # Use postgresql as the database for Active Record
 # gem 'pg', '>= 0.18', '< 2.0'
-# gem 'pg', '1.2.3'
-gem 'pg'
+gem 'pg', '1.2.3'
+# gem 'pg'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
